@@ -3,7 +3,7 @@
 ![](1.png)
 
 ### Layer 1 address on the Testnet Explorer
-https://explorer.nervos.org/aggron/address/ckt1qyqxg8k5p0zzgtvadrcg673nyc3uljsc3dksv6wj2n
+https://explorer.nervos.org/aggron/address/ckt1qyqq4wmcyjf54nkduu436mxvm0ryctmucnlsx2ul6p
 
 ### Screenshot of deposit to L2 Tron Account
 ![](2.png)
